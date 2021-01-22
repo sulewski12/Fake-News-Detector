@@ -1,5 +1,7 @@
 # Fake News Detector
 
+![UI](https://i.dawn.com/primary/2020/10/5f9cf6ace7a7d.jpg)
+
 ### Project Motivation
 
 Being interested in Armenia and in the entire region of Caucasus, one peaceful day I got hit by the news saying that the outbreak of the Nagorno-Karabakh conflict took place once again. One of the easiest and most accessible form of communication nowadays is social media. Especially during the military conflict the possibility of every single human being with an access to the internet to spread the fake news is significant. <br>
